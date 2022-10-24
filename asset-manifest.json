@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/form-register/static/css/main.b300dfea.css",
+    "main.js": "/form-register/static/js/main.125ce8f8.js",
+    "static/media/Fingerprint-amico.png": "/form-register/static/media/Fingerprint-amico.599d0975fe2e5d938125.png",
+    "static/media/Fingerprint-pana.png": "/form-register/static/media/Fingerprint-pana.3f138a678bfe12bf0b21.png",
+    "static/media/user.png": "/form-register/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "static/media/logo.png": "/form-register/static/media/logo.0ff59efd9eff3353f6b7.png",
+    "index.html": "/form-register/index.html",
+    "main.b300dfea.css.map": "/form-register/static/css/main.b300dfea.css.map",
+    "main.125ce8f8.js.map": "/form-register/static/js/main.125ce8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b300dfea.css",
+    "static/js/main.125ce8f8.js"
+  ]
+}
